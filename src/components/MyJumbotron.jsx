@@ -1,3 +1,4 @@
+import React from 'react'
 import { Jumbotron, Button} from 'react-bootstrap'
 
 const MyJumbotron = () => (

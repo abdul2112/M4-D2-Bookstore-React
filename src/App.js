@@ -3,6 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import MyNavBar from './components/MyNavBar';
 import MyJumbotron from './components/MyJumbotron';
+import LatestReleases from './components/LatestReleases';
 import MyFooter from './components/MyFooter';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div>
       <MyNavBar title="Bookstore" />
       <MyJumbotron />
+      <LatestReleases />
       <MyFooter />
     </div>
   );

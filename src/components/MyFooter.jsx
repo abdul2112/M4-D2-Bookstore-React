@@ -1,3 +1,4 @@
+import React from 'react'
 import { Container, Col, ListGroup, Row } from 'react-bootstrap'
 
 const MyFooter = () => (
